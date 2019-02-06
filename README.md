@@ -1,7 +1,7 @@
 # bbm406-project-emotion-detection
 
-Authors: 
-  Ali Baran Tasdemir - https://github.com/alibtasdemir
+<b>Authors:</b> <br>
+  Ali Baran Tasdemir - https://github.com/alibtasdemir<br>
   Akif Cavdar - https://github.com/akif88
 
 Here is our video presentation:
