@@ -12,7 +12,7 @@ Here is our video presentation:
 https://www.youtube.com/watch?v=lTvka-7B0O4
 
 Research Paper for detailed information:
-[Paper](https://github.com/user/repo/blob/branch/other_file.md)
+[Paper](https://github.com/alibtasdemir/Emotion-Detection/blob/master/emotion_detection_paper.pdf)
 
 Weekly updates on Medium:
 [First Week](https://medium.com/bbm406f18/week-1-emotion-detection-b327c30713e3)
